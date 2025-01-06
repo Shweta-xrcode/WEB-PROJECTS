@@ -1,0 +1,226 @@
+*{
+    margin:0px;
+    font-family: Arial;
+    border:border-box;
+}
+
+.navbar{
+    height:60px;
+    background-color: #0f1111;
+    color:white;
+    display: flex;  
+    align-items: center;
+    justify-content: space-evenly;          
+}
+
+.nav-logo{
+    height: 50px;
+    width: 100px;
+}
+
+.logo{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy8L1HIH2ZlhTcSR2x5c993GIA6DFFs06YEg&s");
+    height: 50px;
+    background-size: cover;
+    width: 100px;
+}
+
+.border{
+    border: 2px solid transparent;
+}
+.border:hover{
+    border: 2px solid white;
+}
+#as{
+    color:#cccccc;
+    font-size: 0.85;
+}
+#IN{
+    font-size: 1rem;
+    
+    left: 40px;
+}
+
+.icon{
+    display: flex;
+    align-items: center;
+    
+}
+.search{
+    display: flex;
+    justify-content: space-evenly;
+    width: 600px;
+    height: 40px;
+    background-color: darksalmon;
+
+}
+#all{
+    width: 50px;
+    text-align: center;
+}
+.amazon{
+    width: 900%;
+    font-size: large;
+}
+.amazon:hover{
+border: 2px solid orange;
+}
+
+.searchicon{
+    width: 45px;
+}
+
+span{
+    font-size: 0.85rem;
+}
+
+.cart{
+    font-weight: 700;
+    }
+
+.panel{
+    height: 40px;
+    background-color: #222f3d;
+    display: flex;
+    color: white;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+
+.ops p{
+    display: inline;
+    margin: 15px;
+}
+.ops{
+    width: 70%;
+}
+
+.back-image{
+    background-image: url("https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2022/09/Festive-season_Social-Image.jpeg");
+    background-size: cover;
+    height: 380px;
+    width: 100%px;
+
+}
+
+.content{
+    height: 40px;
+    
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center ;
+    font-size: 00.85rem;
+    position: relative;
+    top: 320px;
+    width: 70%;
+    left: 200px;
+
+    
+}
+#link{
+    color: blue;
+}
+
+.box{
+    height: 300px;
+    border: 2px  solid black;
+    width: 23%;
+    background-color: white;
+    padding: 15px;
+    margin: 13px;
+    
+    
+ 
+
+
+}
+
+.shop{
+    display: flex;
+    
+    justify-content: space-evenly;
+    background-color:rgb(236, 39, 39);
+}
+
+
+.box1-img{
+    height: 250px;
+    background-size: cover;
+}
+.box2-img{
+    height: 250px;
+    background-size: cover;
+}
+.box3-img{
+    height: 250px;
+    background-size: cover;
+}
+.box4-img{
+    height: 250px;
+    background-size: cover;
+}
+
+.shop-all{
+    
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(236, 39, 39);
+
+}
+
+.shopping{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(236, 39, 39);
+}
+
+.foot1{
+    background-color:#003049 ;
+    height: 30px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sign{
+
+    align-content: center;
+    margin-bottom: 25px;
+    position: relative;
+    left: 600px;
+    top: 10px;
+}
+
+#button{
+    margin-top: 10px;
+    background-color: orangered;
+    color: white;
+    position: relative;
+    left: 100px;
+    height: 30px;
+}
+.foot2{
+    background-color: #14213d;
+    color: white;
+    height: 400px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+ul a{
+    display: block;
+    margin-top: 10px;
+}
+
+ul {
+    margin-top: 20px;
+    
+}
+
+
+
+
+
